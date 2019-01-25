@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "southcentralus"
+            "value": "westeurope"
         },
         "vmList": {
-            "value": "client01,client02"
+            "value": "ADFS2016LABFS1"
         },
         "domainJoinUserName": {
-            "value": "contoso\\username"
+            "value": "adfs2016lab\\michaeladmin"
         },
         "domainJoinUserPassword": {
             "value": "GEN-PASSWORD"
         },
         "domainFQDN": {
-            "value": "contoso.com"
+            "value": "adfs2016lab.com"
         }
     }
 }
